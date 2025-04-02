@@ -3,11 +3,11 @@ var http = require('http');
 const request = require('request');
 
 // change your info here!
-const discordToken = 'Your Discord Token'
+const discordToken = 'NzU0MDg2NzU1NDM4NjkwMzI0.GTK0-A.iqBA71C52V90z-AJbWGzwgGGcZkY78ZLZmw26o'
 const client = new Discord.Client();
 var chipotleChannel;
 // put your channel you want to listen and send to here.
-const channelID = 'Your Channel ID';
+const channelID = '1356829166032388180';
 
 // this is what will trigger our bot
 const botPrefix = 'c!';
